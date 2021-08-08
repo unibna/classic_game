@@ -1,0 +1,5 @@
+This document decribes how to make the Tetris game.
+
+Classic Tetris have 7 type of bricks which are S,Z,L-left,L-right,T,I,square.
+All of these built from single dot.
+=> We must create a Dot ojbect, which has the operations like: move right, move left, move down, disappear.
